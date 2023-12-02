@@ -1,5 +1,5 @@
 import React from 'react';
-//we can destructure even without having an interface created before
+
 const MovieCard = ({movie}) => {
   return(
     <div className="movie">
